@@ -14,5 +14,5 @@ Run each script using Python 3:
 
 ```bash
 python loyalty_points.py
-python traffic_light.py
+python smart_traffic_light.py
 python inventory_alert.py
